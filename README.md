@@ -47,19 +47,19 @@ javac -version
 5. Run the program:
 ## 💡 Example console output
 
-Shipment notice **
-10x Cheese 3000g
-Total package weight: 3kg
+- Shipment notice **
+- 10x Cheese 3000g
+- Total package weight: 3kg
 
 Checkout receipt **
 
-2x Cheese 200
-1x Card 50
-Subtotal 250
-Shipping 30
-Amount 280
-Remaining Balance: 720
+- 2x Cheese 200
+- 1x Card 50
+- Subtotal 250
+- Shipping 30
+- Amount 280
+- Remaining Balance: 720
 
 ## 🙌 Author
-Built BY OMAR KHALED
-Built for the **Fawry Internship program Task** 
+- Built BY OMAR KHALED
+- Built for the **Fawry Internship program Task** 
